@@ -1,4 +1,4 @@
-<h1 align="center">Desafio Capgemini Exercício 1</h1>
+<h1 align="center">Desafio Capgemini Exercício 2</h1>
 
 <p align="center">Segundo exercício realizado com a finalidade de participar do processo seletivo 2022 para a Academia Java Capgemini 2022.</p>
 
